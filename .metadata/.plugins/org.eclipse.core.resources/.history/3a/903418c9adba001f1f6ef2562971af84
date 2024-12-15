@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="style.css" >
+</head>
+<body>
+<form action="myServlet" method="Post">
+<input name="username" placeholder="Enter Your YourName : "></input>
+<input name="password" placeholder="Enter Your password : "></input>
+<button>Submit me</button>
+</form>
+</body>
+</html>

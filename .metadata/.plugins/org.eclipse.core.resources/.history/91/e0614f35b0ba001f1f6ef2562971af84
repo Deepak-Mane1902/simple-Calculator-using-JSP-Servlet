@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<link rel="stylesheet" href="style.css" >
+</head>
+<body>
+<main>
+<img src="images/gip.gif" />
+<h1>HI,Gi Kya Haal Chaal.!!😎</h1>
+<form>
+<input name="firstNum" placeholder="Enter Your First Number : " required/>
+<input name="secondNum" placeholder="Enter Your second Number : " required/>
+<button>+</button>
+<button>-</button>
+<button>*</button>
+<button>/</button>
+
+</form>
+</main>
+</body>
+</html>
